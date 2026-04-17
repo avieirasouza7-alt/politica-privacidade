@@ -44,5 +44,4 @@ Esta política pode ser atualizada periodicamente. Recomendamos que você revise
 ## Contato
 
 Se você tiver dúvidas, entre em contato:
-[avieirasouza7@email.com](mailto:seuemail@email.com)
-
+[avieirasouza7@email.com](mailto:avieirasouza7@email.com)
