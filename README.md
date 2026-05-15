@@ -1,8 +1,8 @@
-# Política de Privacidade
+# Política de Privacidade — Illuminati Control Game
 
 Última atualização: 2026
 
-Este aplicativo ("Protocolo Oculto") respeita a privacidade dos usuários.
+Esta Política de Privacidade descreve como o aplicativo **Illuminati Control Game**, desenvolvido por **Black Eye Games**, coleta, utiliza e protege as informações dos usuários.
 
 ## Coleta de informações
 
@@ -23,13 +23,14 @@ As informações coletadas são utilizadas para:
 
 ## Compartilhamento de informações
 
-As informações podem ser compartilhadas com parceiros como o Google AdMob para fins de publicidade.
+As informações podem ser compartilhadas com parceiros como Google AdMob e Google Play Services para fins de publicidade, análise e funcionamento do aplicativo.
 
 ## Serviços de terceiros
 
 Este aplicativo utiliza serviços de terceiros que podem coletar informações, incluindo:
 
 * Google AdMob
+* Google Play Services
 
 Recomendamos que você consulte a política de privacidade desses serviços.
 
@@ -44,6 +45,8 @@ Esta política pode ser atualizada periodicamente. Recomendamos que você revise
 ## Contato
 
 Se você tiver dúvidas, entre em contato:
-[avieirasouza7@email.com](mailto:avieirasouza7@email.com)
+
+avieirasouza7@email.com
+
 
 
